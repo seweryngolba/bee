@@ -32,3 +32,12 @@ div {
   width: 80%;
   margin: auto;
 }
+
+#three {
+  width: 90%;
+  margin: auto;
+}
+
+body {
+  background: lightblue;
+}
